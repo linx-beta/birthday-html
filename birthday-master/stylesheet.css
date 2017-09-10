@@ -1268,17 +1268,17 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 150px;
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
-	font-size: 30px;
-	text-transform: uppercase;
-	color: #C4515C;
+	font-family: "微软雅黑", sans-serif;
+	font-size: 20px;
+	text-transform: lowercase;
+	color: #99CCFF;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 .btn-primary {
