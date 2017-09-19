@@ -1,8 +1,2 @@
 # birthday-html
-Happy Birthday
-
-A Happy Birthday website design in CSS3, HTML5.
-
-
-Technology Used: HTML5 CSS3 jQuery 
-
+用作生日礼物的简易网页
